@@ -1,0 +1,5 @@
+172.18.0.1 - - [31/Jul/2025:17:41:53 +0000] "GET / HTTP/1.1" 200 1542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
+172.18.0.1 - - [31/Jul/2025:17:41:53 +0000] "GET /favicon.ico HTTP/1.1" 404 125 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
+172.18.0.1 - - [31/Jul/2025:17:45:23 +0000] "GET / HTTP/1.1" 200 1542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
+172.18.0.1 - - [31/Jul/2025:17:45:23 +0000] "GET /favicon.ico HTTP/1.1" 404 125 "http://localhost:3003/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
+172.18.0.1 - - [31/Jul/2025:17:45:47 +0000] "GET / HTTP/1.1" 200 1542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
